@@ -1,0 +1,12 @@
+[EMYRI006]
+EMYRI006 = "192.168.100.79"
+
+[EMYRI006 2]
+EMYRI006 2 = "192.168.43.220"
+
+[My Computer]
+My Computer = "172.18.144.1"
+
+[NI-myRIO-1900-DAT]
+NI-myRIO-1900-DAT = "172.22.11.2"
+
